@@ -1,3 +1,5 @@
+google.com, pub-1242753815172531, DIRECT, f08c47fec0942fa0
+facebook.com, 1985801888831228, RESELLER, c3e20eee3f780d68
 # CAS.ai Updated Oct 07, 2025
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
