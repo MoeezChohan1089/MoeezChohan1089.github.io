@@ -1,5 +1,35 @@
 google.com, pub-1242753815172531, DIRECT, f08c47fec0942fa0
 facebook.com, 1985801888831228, RESELLER, c3e20eee3f780d68
+yandex.com, 314784613, DIRECT
+rubiconproject.com, 17608,RESELLER, 0bfd66d529a55807
+smartadserver.com, 3817, RESELLER
+smartadserver.com, 1247, RESELLER
+adform.com, 2664, RESELLER
+appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
+smartyads.com, 368, RESELLER, fd2bde0ff2e62c5d
+video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
+rubiconproject.com, 20086, RESELLER, 0bfd66d529a5
+yeahmobi.com, 115446, RESELLER 
+pubnative.net, 1007475, RESELLER, d641df8625486a7b 
+pubnative.net, 1007303, RESELLER, d641df8625486a7b 
+Contextweb.com, 562762, RESELLER, 89ff185a4c4e857c
+Se7en.es, 212503, RESELLER, 064bc410192443d8
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
+betweendigital.com, 44659, RESELLER 
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0 #GreeterAPL
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0 #APL
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0 #Positive
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0 #opa
+smartadserver.com, 4998, RESELLER, 060d053dcf45cbf3
+Vidoomy.com, 1320781, RESELLER
+rubiconproject.com, 20086, RESELLER
+adyoulike.com, a2226c27fc2a6773f6a2b365e013513a, RESELLER, 4ad745ead2958bf7
+video.unrulymedia.com, 2564526802, RESELLER, 6f752381ad5ec0e5
+axonix.com, 57264, RESELLER, bc385f2b4a87b721
+app-stock.com,558223, RESELLER, ed8c126ea5971415
+appnexus.com, 6849, RESELLER, f5ab79cb980f11d1
+lijit.com, 541964, RESELLER, fafdf38b16bf6b2b #SOVRN
+lijit.com, 558045, RESELLER, fafdf38b16bf6b2b #SOVRN
 # CAS.ai Updated Oct 07, 2025
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
